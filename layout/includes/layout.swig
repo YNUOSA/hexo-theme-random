@@ -52,8 +52,9 @@
   <div id="bottom-outer">
     <div id="bottom-inner">
       Site by {{ config.author }} using
-      <a href="http://hexo.io">Hexo</a> & <a href="https://github.com/stiekel/hexo-theme-random">Random</a>
+      <a href="https://hexo.io">Hexo</a> & <a href="https://github.com/stiekel/hexo-theme-random">Random</a>
       <br>
+      <a href="http://www.miitbeian.gov.cn">滇ICP备16008479号</a>
       {% if config.since %}
         &copy;
         {% set thisYear = date(Date.now(), 'YYYY') %}

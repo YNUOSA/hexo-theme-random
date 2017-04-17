@@ -9,17 +9,19 @@ menu:
   Tags: tags
   Categories: categories
   About: about
-  Github: https://github.com/stiekel/hexo-theme-random
+  Mirrors: http://mirrors.ynuosa.org/index/
+  GitLab: https://gitlab.ynuosa.org/
+  Wiki: https://wiki.ynuosa.org/
 
 social:
-  GitHub: https://github.com/stiekel/hexo-theme-random
-  Coding.NET: https://coding.net/u/Stiekel
-  Twitter: https://twitter.com/SidCN
-  Weibo: http://weibo.com/sidcn
-  DouBan: http://www.douban.com/people/Stiekel/
+  GitHub: https://github.com/YNUOSA
+  # Coding.NET: https://coding.net/u/Stiekel
+  # Twitter: https://twitter.com/SidCN
+  # Weibo: http://weibo.com/sidcn
+  # DouBan: http://www.douban.com/people/Stiekel/
 
 # Google analytics
-google_analytics:
+google_analytics: UA-96985531-1
 # Baidu tongji
 baidu_analytics:
 # Duoshuo
@@ -31,7 +33,7 @@ uyan_id:
 # jiaThis id
 # if you want to change the style of jiaThis, please go to chage the following file:
 # theme/random/layouts/includes/jiathis.swig
-jiaThis_uid: 
+jiaThis_uid:
 jiathisConfig:
   data_track_clickback: true
   summary: ""
@@ -42,7 +44,7 @@ jiathisConfig:
 
 
 # Miscelaneous
-favicon: /favicon.ico
+favicon:
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -72,22 +74,22 @@ ignoreHostList:
   - 127.0.0.1
 
 # if you want to turn off the background images, pleaase set this value as true
-turnoffBackgroundImage: 
+turnoffBackgroundImage:
   # home page
   index: false
   # arcihve / categories / tags
   post_list: false
   # post and page
   post: true
+
 # when you turn off backgrounds, you can set a background color.
-backgroundColor: 34495E
- 
+backgroundColor: FDD835
+
 backgroundImages:
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_1.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_2.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_3.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_4.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_5.jpg?imageView2/1/w/__width__/h/__height__
+- https://ooo.0o0.ooo/2017/04/17/58f47c62ebadb.jpg
+- https://ooo.0o0.ooo/2017/04/17/58f47c6312c95.jpg
+- https://ooo.0o0.ooo/2017/04/17/58f47c63208f3.jpg
+- https://ooo.0o0.ooo/2017/04/17/58f47c6326a68.jpg
 
 vegasConfig:
   # more about config http://vegas.jaysalvat.com/documentation/settings/
@@ -113,10 +115,10 @@ unsplashConfig:
   gravity: 'north' # north, east, south, west, center
   # greyscale: true
 
-avatar: http://7te9fe.com1.z0.glb.clouddn.com/default_avatar.jpg
+avatar: https://ooo.0o0.ooo/2017/04/17/58f47d5c0f1cc.png
 
 # do not like fancybox, set this as false, this will turn it off
 fancybox: true
 
 # set the visibility of hide button in left bottom.
-hideButtonVisibility: true
+hideButtonVisibility: false

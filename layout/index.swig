@@ -20,6 +20,9 @@
       </ul>
       {% include 'includes/social-icon.swig' %}
     </div>
+    <div class="center-field-icp">
+      <a href="http://www.miitbeian.gov.cn">滇ICP备16008479号</a>
+    </div>
   </div>
 </div>
 {% include 'includes/footer.swig' %}
