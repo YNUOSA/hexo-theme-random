@@ -5,6 +5,7 @@ A hexo theme with random fullscreen background image.
 
 * [Demo on Openshift](http://random-stiekel.rhcloud.com/)
 * [stiekel's blog](http://chensd.com)(Chinese)
+* [YNUOSA](https://ynuosa.org)
 
 ## [中文文档](README.CN.md)
 

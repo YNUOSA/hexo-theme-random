@@ -9,21 +9,14 @@ menu:
   Tags: tags
   Categories: categories
   About: about
-  Mirrors: http://mirrors.ynuosa.org/index/
-  GitLab: https://gitlab.ynuosa.org/
-  Wiki: https://wiki.ynuosa.org/
 
 social:
   GitHub: https://github.com/YNUOSA
-  # Coding.NET: https://coding.net/u/Stiekel
-  # Twitter: https://twitter.com/SidCN
-  # Weibo: http://weibo.com/sidcn
-  # DouBan: http://www.douban.com/people/Stiekel/
 
 # Tencent analytics
-tencent_analytics: 65056164
+tencent_analytics: 
 # Google analytics
-google_analytics: UA-96985531-1
+google_analytics: 
 # Baidu tongji
 baidu_analytics:
 # Duoshuo
