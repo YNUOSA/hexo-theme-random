@@ -1,0 +1,1 @@
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId={{ config.tencent_analytics || theme.tencent_analytics }}" charset="UTF-8"></script>

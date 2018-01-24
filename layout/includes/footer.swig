@@ -22,6 +22,14 @@ var isTriggerAnalytics = !( {{ JSON.stringify(config.isIgnoreSpecialHostVisitor 
   {% include 'google-analytics.swig' %}
 {% endif %}
 
+{% if config.google_analytics || theme.google_analytics %}
+  {% include 'google-analytics.swig' %}
+{% endif %}
+
+{% if config.tencent_analytics || theme.tencent_analytics %}
+  {% include 'tencent-analytics.swig' %}
+{% endif %}
+
 {% if theme.scripts !== undefined && theme.scripts.length > 0 %}
   {# scripts list from config.yml #}
   {% for url in theme.scripts %}

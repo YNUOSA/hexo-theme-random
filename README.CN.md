@@ -129,6 +129,8 @@ social:
 本主题支持 [Google Analytics](https://www.google.com/analytics/) / [百度统计](http://tongji.baidu.com/web/welcome/login) / [Disqus](https://disqus.com/) / [多说](http://duoshuo.com/) / [友言](http://www.uyan.cc/) / [JiaThis](http://www.jiathis.com/)，即可以在主题配置文件中设置，也可以在博客的主配置文件中设置，增加项目如下：
 
 ```yml
+# Tencent analytics
+tencent_analytics:
 # Google analytics
 google_analytics:
 # Baidu tongji

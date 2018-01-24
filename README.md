@@ -126,6 +126,8 @@ social:
 Random support [Google Analytics](https://www.google.com/analytics/) / [Baidu Tongji](http://tongji.baidu.com/web/welcome/login) / [Disqus](https://disqus.com/) / [Duoshuo](http://duoshuo.com/) / [Uyan](http://www.uyan.cc/) / [JiaThis](http://www.jiathis.com/), You can config these in theme config file or hexo main config file:
 
 ```yml
+# Tencent analytics
+tencent_analytics:
 # Google analytics
 google_analytics:
 # Baidu tongji
